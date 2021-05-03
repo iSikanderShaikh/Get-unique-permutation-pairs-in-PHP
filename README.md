@@ -1,2 +1,1 @@
-# Get-unique-permutation-pairs-in-PHP
-Get unique permutation pairs in PHP
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iSikanderShaikh&repo=Get-unique-permutation-pairs-in-PHP)](https://github.com/iSikanderShaikh/Get-unique-permutation-pairs-in-PHP)
